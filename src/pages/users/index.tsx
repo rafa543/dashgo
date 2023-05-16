@@ -23,7 +23,7 @@ export default function UserList() {
 
                         <Link href="/users/create" passHref>
                             <Button
-                                as="a"
+                                // as="a"
                                 size="sm"
                                 fontSize="sm"
                                 colorScheme="pink"
